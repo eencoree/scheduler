@@ -19,3 +19,5 @@
 запуск отдельного теста: **python -m unittest tests/your_test_file.py** \
 запуск метода теста: **python -m unittest tests/test_module.TestClass.test_method** \
 запуск всех тестов: **python -m unittest discover -s tests** 
+
+Использован статический анализатор кода Pylint и инструмент для автоматического форматирования кода Black
